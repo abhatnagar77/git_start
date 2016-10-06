@@ -9,6 +9,7 @@ public class GitSyncMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Gitsync active");
+		System.out.println("Gitsync completed");
 	}
 
 }
