@@ -13,6 +13,8 @@ public class GitSyncMain {
 		System.out.println("Local branch code update");
 		System.out.println("Git remote update");
 		
+		System.out.println("Local update 1");
+		
 	}
 
 }
