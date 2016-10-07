@@ -11,6 +11,8 @@ public class GitSyncMain {
 		System.out.println("Gitsync active");
 		System.out.println("Gitsync completed");
 		System.out.println("Local branch code update");
+		System.out.println("Git remote update");
+		
 	}
 
 }
