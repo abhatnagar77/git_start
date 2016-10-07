@@ -10,6 +10,7 @@ public class GitSyncMain {
 		// TODO Auto-generated method stub
 		System.out.println("Gitsync active");
 		System.out.println("Gitsync completed");
+		System.out.println("Local branch code update");
 	}
 
 }
